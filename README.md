@@ -13,13 +13,18 @@ https://towardsdatascience.com/modeling-teaching-a-machine-learning-algorithm-to
 https://github.com/Featuretools/predict-customer-churn
 
 Good dataset from kaggle competition: KKBOX churn challenge.
+
 https://www.kaggle.com/c/kkbox-churn-prediction-challenge/
 
+
 A Thesis on churn prediction in banking
+
 http://tesi.cab.unipd.it/53212/1/Valentino_Avon_-_1104319.pdf
 
 AI101: Understanding Customer Churn Management
+
 https://towardsdatascience.com/ai-101-understanding-customer-churn-management-514416c17643
 
 Churn reduction in telecom industry
+
 http://www.dbmarketing.com/telecom/churnreduction.html
