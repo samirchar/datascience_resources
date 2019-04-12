@@ -4,8 +4,11 @@ Compilation of links, pdf or just any resource good for data science.
 ## Churn
 Guide to creating labels, feature engineering, modeling and evaluation:
 https://towardsdatascience.com/prediction-engineering-how-to-set-up-your-machine-learning-problem-b3b8f622683b
+
 https://towardsdatascience.com/feature-engineering-what-powers-machine-learning-93ab191bcc2d
+
 https://towardsdatascience.com/modeling-teaching-a-machine-learning-algorithm-to-deliver-business-value-ad0205ca4c86
+
 https://github.com/Featuretools/predict-customer-churn
 
 Good dataset from kaggle competition: KKBOX churn challenge.
