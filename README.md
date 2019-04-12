@@ -3,6 +3,7 @@ Compilation of links, pdf or just any resource good for data science.
 
 ## Churn
 Guide to creating labels, feature engineering, modeling and evaluation:
+
 https://towardsdatascience.com/prediction-engineering-how-to-set-up-your-machine-learning-problem-b3b8f622683b
 
 https://towardsdatascience.com/feature-engineering-what-powers-machine-learning-93ab191bcc2d
