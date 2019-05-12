@@ -28,3 +28,8 @@ https://towardsdatascience.com/ai-101-understanding-customer-churn-management-51
 Churn reduction in telecom industry
 
 http://www.dbmarketing.com/telecom/churnreduction.html
+
+
+## Data Cleansing
+
+https://towardsdatascience.com/the-ultimate-guide-to-data-cleaning-3969843991d4
