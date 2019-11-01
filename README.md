@@ -29,6 +29,11 @@ Churn reduction in telecom industry
 
 http://www.dbmarketing.com/telecom/churnreduction.html
 
+## House price prediction
+
+House fair price prediction
+https://towardsdatascience.com/going-dutch-part-2-improving-a-machine-learning-model-using-geographical-data-a8492b67b885
+
 
 ## Data Cleansing
 
