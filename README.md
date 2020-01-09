@@ -39,6 +39,12 @@ https://towardsdatascience.com/going-dutch-part-2-improving-a-machine-learning-m
 
 https://towardsdatascience.com/the-ultimate-guide-to-data-cleaning-3969843991d4
 
+## Deep Learning
+### CNN
+https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/
+https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks-Part-2/
+https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html
+
 ## Books
 
 
