@@ -50,6 +50,8 @@ https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-Y
 
 Quick BERT overview https://towardsdatascience.com/understanding-bert-is-it-a-game-changer-in-nlp-7cca943cf3ad
 
+Dissecting BERT Part 1 https://medium.com/@mromerocalvo/dissecting-bert-part1-6dcf5360b07f
+
 
 ## Books
 
