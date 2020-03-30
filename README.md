@@ -52,6 +52,7 @@ Quick BERT overview https://towardsdatascience.com/understanding-bert-is-it-a-ga
 
 Dissecting BERT Part 1 https://medium.com/@mromerocalvo/dissecting-bert-part1-6dcf5360b07f
 
+Pre-trained word embeddings: https://ybbaigo.gitbooks.io/26/pretrained-word-embeddings.html
 
 ## Books
 
