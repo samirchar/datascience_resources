@@ -52,7 +52,11 @@ Quick BERT overview https://towardsdatascience.com/understanding-bert-is-it-a-ga
 
 Dissecting BERT Part 1 https://medium.com/@mromerocalvo/dissecting-bert-part1-6dcf5360b07f
 
-Pre-trained word embeddings: https://ybbaigo.gitbooks.io/26/pretrained-word-embeddings.html
+Pre-trained word embeddings miscellaneous https://ybbaigo.gitbooks.io/26/pretrained-word-embeddings.html
+
+Pre-trained GloVe https://nlp.stanford.edu/projects/glove/
+
+Pre-trained FastText on wikipedia + common crawl https://fasttext.cc/docs/en/crawl-vectors.html
 
 ## Books
 
