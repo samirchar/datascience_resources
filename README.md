@@ -47,10 +47,6 @@ https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Unders
 
 https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html
 
-## Software Engineering
-
-10 good tips https://medium.com/modern-nlp/10-great-ml-practices-for-python-developers-b089eefc18fc
-
 ### NLP
 
 Quick BERT overview https://towardsdatascience.com/understanding-bert-is-it-a-game-changer-in-nlp-7cca943cf3ad
@@ -62,6 +58,11 @@ Pre-trained word embeddings miscellaneous https://ybbaigo.gitbooks.io/26/pretrai
 Pre-trained GloVe https://nlp.stanford.edu/projects/glove/
 
 Pre-trained FastText on wikipedia + common crawl https://fasttext.cc/docs/en/crawl-vectors.html
+
+## Software Engineering
+
+10 good tips https://medium.com/modern-nlp/10-great-ml-practices-for-python-developers-b089eefc18fc
+
 
 ## Books
 
@@ -88,3 +89,7 @@ Quantum Machine Learning by Peter Wittek https://lnkd.in/gQgKckB...
 ## Create fast ML Apps
 
 https://www.streamlit.io/
+
+## learning resources
+
+https://madewithml.com/topics/
