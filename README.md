@@ -40,6 +40,13 @@ https://towardsdatascience.com/going-dutch-part-2-improving-a-machine-learning-m
 https://towardsdatascience.com/the-ultimate-guide-to-data-cleaning-3969843991d4
 
 ## Deep Learning
+
+Random Search Bengio & Bergstra http://www.jmlr.org/papers/volume13/bergstra12a/bergstra12a.pdf
+
+Tips on training NN http://cs231n.stanford.edu/slides/2020/lecture_8.pdf
+
+Recipe for training NN by Karpathy https://karpathy.github.io/2019/04/25/recipe/ 
+
 ### CNN
 https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/
 
@@ -58,6 +65,9 @@ Pre-trained word embeddings miscellaneous https://ybbaigo.gitbooks.io/26/pretrai
 Pre-trained GloVe https://nlp.stanford.edu/projects/glove/
 
 Pre-trained FastText on wikipedia + common crawl https://fasttext.cc/docs/en/crawl-vectors.html
+
+Data Augmentation https://www.aclweb.org/anthology/D19-1670.pdf
+Data Augmentation https://towardsdatascience.com/these-are-the-easiest-data-augmentation-techniques-in-natural-language-processing-you-can-think-of-88e393fd610
 
 ## Software Engineering
 
