@@ -69,6 +69,8 @@ Pre-trained FastText on wikipedia + common crawl https://fasttext.cc/docs/en/cra
 Data Augmentation https://www.aclweb.org/anthology/D19-1670.pdf
 Data Augmentation https://towardsdatascience.com/these-are-the-easiest-data-augmentation-techniques-in-natural-language-processing-you-can-think-of-88e393fd610
 
+Tips and Tricks(focus on text classification ) https://neptune.ai/blog/text-classification-tips-and-tricks-kaggle-competitions
+
 ## Software Engineering
 
 10 good tips https://medium.com/modern-nlp/10-great-ml-practices-for-python-developers-b089eefc18fc
