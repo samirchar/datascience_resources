@@ -71,7 +71,7 @@ Data Augmentation https://towardsdatascience.com/these-are-the-easiest-data-augm
 
 Tips and Tricks(focus on text classification ) https://neptune.ai/blog/text-classification-tips-and-tricks-kaggle-competitions
 
-Great and simple way to combine embeddings \n
+Great and simple way to combine embeddings
 even with embeddings of different dimentions: Dynamic Meta-Embeddings https://arxiv.org/pdf/1804.07983.pdf
 
 ## Software Engineering
