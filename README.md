@@ -71,6 +71,9 @@ Data Augmentation https://towardsdatascience.com/these-are-the-easiest-data-augm
 
 Tips and Tricks(focus on text classification ) https://neptune.ai/blog/text-classification-tips-and-tricks-kaggle-competitions
 
+Great and simple way to combine embeddings 
+even with embeddings of different dimentions: Dynamic Meta-Embeddings https://arxiv.org/pdf/1804.07983.pdf
+
 ## Software Engineering
 
 10 good tips https://medium.com/modern-nlp/10-great-ml-practices-for-python-developers-b089eefc18fc
