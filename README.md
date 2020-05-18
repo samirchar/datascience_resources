@@ -74,6 +74,8 @@ Tips and Tricks(focus on text classification ) https://neptune.ai/blog/text-clas
 Great and simple way to combine embeddings
 even with embeddings of different dimentions: Dynamic Meta-Embeddings https://arxiv.org/pdf/1804.07983.pdf
 
+InceptionTime https://towardsdatascience.com/deep-learning-for-time-series-classification-inceptiontime-245703f422db
+
 ## Software Engineering
 
 10 good tips https://medium.com/modern-nlp/10-great-ml-practices-for-python-developers-b089eefc18fc
