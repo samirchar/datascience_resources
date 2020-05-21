@@ -76,6 +76,8 @@ even with embeddings of different dimentions: Dynamic Meta-Embeddings https://ar
 
 InceptionTime https://towardsdatascience.com/deep-learning-for-time-series-classification-inceptiontime-245703f422db
 
+LSTM-CNN (best) vs CNN-LSTM vs CNN vs LSTM:  http://konukoii.com/blog/2018/02/19/twitter-sentiment-analysis-using-combined-lstm-cnn-models/
+
 ## Software Engineering
 
 10 good tips https://medium.com/modern-nlp/10-great-ml-practices-for-python-developers-b089eefc18fc
