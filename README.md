@@ -47,6 +47,8 @@ Tips on training NN http://cs231n.stanford.edu/slides/2020/lecture_8.pdf
 
 Recipe for training NN by Karpathy https://karpathy.github.io/2019/04/25/recipe/ 
 
+Stanford Online HUB of courses http://onlinehub.stanford.edu/
+
 ### CNN
 https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/
 
