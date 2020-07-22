@@ -84,6 +84,8 @@ LSTM-CNN (best) vs CNN-LSTM vs CNN vs LSTM:  http://konukoii.com/blog/2018/02/19
 
 10 good tips https://medium.com/modern-nlp/10-great-ml-practices-for-python-developers-b089eefc18fc
 
+Python Type Hint Cheat Sheet https://mypy.readthedocs.io/en/stable/cheat_sheet_py3.html
+
 
 ## Books
 
