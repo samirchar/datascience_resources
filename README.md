@@ -39,6 +39,10 @@ https://towardsdatascience.com/going-dutch-part-2-improving-a-machine-learning-m
 
 https://towardsdatascience.com/the-ultimate-guide-to-data-cleaning-3969843991d4
 
+## EDA
+
+Plot on maps: https://towardsdatascience.com/easy-steps-to-plot-geographic-data-on-a-map-python-11217859a2db
+
 ## Deep Learning
 
 Random Search Bengio & Bergstra http://www.jmlr.org/papers/volume13/bergstra12a/bergstra12a.pdf
