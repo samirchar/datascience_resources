@@ -43,7 +43,17 @@ https://towardsdatascience.com/the-ultimate-guide-to-data-cleaning-3969843991d4
 
 Plot on maps: https://towardsdatascience.com/easy-steps-to-plot-geographic-data-on-a-map-python-11217859a2db
 
+## Time Series
+
+Facebook Prohet https://peerj.com/preprints/3190.pdf
+
 ## Deep Learning
+
+Deep Learning Papers https://github.com/terryum/awesome-deep-learning-papers
+
+Yann Lecun Deep Learning https://atcold.github.io/pytorch-Deep-Learning/
+
+Deep Learning Yann Lecun FAQs https://kyunghyuncho.me/a-few-qa-from-the-course/
 
 Random Search Bengio & Bergstra http://www.jmlr.org/papers/volume13/bergstra12a/bergstra12a.pdf
 
@@ -52,6 +62,7 @@ Tips on training NN http://cs231n.stanford.edu/slides/2020/lecture_8.pdf
 Recipe for training NN by Karpathy https://karpathy.github.io/2019/04/25/recipe/ 
 
 Stanford Online HUB of courses http://onlinehub.stanford.edu/
+
 
 ### CNN
 https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/
