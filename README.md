@@ -53,6 +53,8 @@ Deep Learning Papers https://github.com/terryum/awesome-deep-learning-papers
 
 Yann Lecun Deep Learning https://atcold.github.io/pytorch-Deep-Learning/
 
+UC Berkeley Full Stack Deep Learning https://docs.google.com/document/d/e/2PACX-1vSSSHcahlrJRvVq4qRKDX2jYLjhgpbWZjqmDcWZ7w3FWItZrlSKw6GY7rcSj5ZkJr6M0DaR8QbKCd8S/pub
+
 Deep Learning Yann Lecun FAQs https://kyunghyuncho.me/a-few-qa-from-the-course/
 
 Random Search Bengio & Bergstra http://www.jmlr.org/papers/volume13/bergstra12a/bergstra12a.pdf
