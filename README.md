@@ -47,6 +47,10 @@ Plot on maps: https://towardsdatascience.com/easy-steps-to-plot-geographic-data-
 
 Facebook Prohet https://peerj.com/preprints/3190.pdf
 
+## Dimensionality Reduction
+
+PCA: good simple summaryhttps://stats.stackexchange.com/questions/2691/making-sense-of-principal-component-analysis-eigenvectors-eigenvalues
+
 ## Deep Learning
 
 Deep Learning Papers https://github.com/terryum/awesome-deep-learning-papers
