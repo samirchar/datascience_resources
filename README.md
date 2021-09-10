@@ -69,6 +69,8 @@ Recipe for training NN by Karpathy https://karpathy.github.io/2019/04/25/recipe/
 
 Stanford Online HUB of courses http://onlinehub.stanford.edu/
 
+Columbia University Peter Belhumeur Advanced Topics in Deep Learning reading list https://www.advancedtopicsindeeplearning.com/reading-list.html
+
 
 ### CNN
 https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/
