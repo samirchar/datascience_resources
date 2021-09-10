@@ -71,6 +71,7 @@ Stanford Online HUB of courses http://onlinehub.stanford.edu/
 
 Columbia University Peter Belhumeur Advanced Topics in Deep Learning reading list https://www.advancedtopicsindeeplearning.com/reading-list.html
 
+Dive into deep learning by Amazon and Google Scientists https://d2l.ai/index.html
 
 ### CNN
 https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/
