@@ -51,6 +51,13 @@ Facebook Prohet https://peerj.com/preprints/3190.pdf
 
 PCA: good simple summaryhttps://stats.stackexchange.com/questions/2691/making-sense-of-principal-component-analysis-eigenvectors-eigenvalues
 
+## Causal Inference
+
+Equality of Opportunity in Classification:
+A Causal Approach. Measure fairness of classifiers and create an unbiased classifier even when data comes from an unbiased world. 
+
+https://proceedings.neurips.cc/paper/2018/file/ff1418e8cc993fe8abcfe3ce2003e5c5-Paper.pdf
+
 ## Deep Learning
 
 Deep Learning Papers https://github.com/terryum/awesome-deep-learning-papers
