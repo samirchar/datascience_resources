@@ -87,6 +87,8 @@ https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Unders
 
 https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html
 
+CNNs beat transformers! (2022) https://arxiv.org/abs/2201.03545
+
 ### Computer Vision
 
 Computer Vision Algorithms and Applications by Szeliski https://szeliski.org/Book/
