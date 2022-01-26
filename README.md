@@ -93,6 +93,8 @@ CNNs beat transformers! (2022) https://arxiv.org/abs/2201.03545
 
 Computer Vision Algorithms and Applications by Szeliski https://szeliski.org/Book/
 
+A Survey of Deep Learning-based Object Detection (up to 2019): https://arxiv.org/pdf/1907.09408.pdf
+
 ### NLP
 
 Quick BERT overview https://towardsdatascience.com/understanding-bert-is-it-a-game-changer-in-nlp-7cca943cf3ad
