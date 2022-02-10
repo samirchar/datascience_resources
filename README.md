@@ -47,6 +47,8 @@ Plot on maps: https://towardsdatascience.com/easy-steps-to-plot-geographic-data-
 
 Facebook Prohet https://peerj.com/preprints/3190.pdf
 
+M5 Competition: Results, findings, conclusions https://www.sciencedirect.com/science/article/pii/S0169207021001874
+
 ## Dimensionality Reduction
 
 PCA: good simple summaryhttps://stats.stackexchange.com/questions/2691/making-sense-of-principal-component-analysis-eigenvectors-eigenvalues
