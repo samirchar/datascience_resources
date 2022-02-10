@@ -103,6 +103,15 @@ Quick BERT overview https://towardsdatascience.com/understanding-bert-is-it-a-ga
 
 Dissecting BERT Part 1 https://medium.com/@mromerocalvo/dissecting-bert-part1-6dcf5360b07f
 
+BERT Paper: https://arxiv.org/pdf/1810.04805.pdf (2019)
+
+RoBERTa Paper: https://arxiv.org/pdf/1907.11692.pdf (2019, after BERT)
+
+DistillBert Paper: https://arxiv.org/pdf/1910.01108.pdf (2019, after RoBERTa)
+
+DeBERTa Paper: https://arxiv.org/pdf/2006.03654.pdf (2020)
+
+
 Pre-trained word embeddings miscellaneous https://ybbaigo.gitbooks.io/26/pretrained-word-embeddings.html
 
 Pre-trained GloVe https://nlp.stanford.edu/projects/glove/
