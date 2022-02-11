@@ -97,6 +97,9 @@ Computer Vision Algorithms and Applications by Szeliski https://szeliski.org/Boo
 
 A Survey of Deep Learning-based Object Detection (up to 2019): https://arxiv.org/pdf/1907.09408.pdf
 
+
+Awesome CV projects and courses https://www.computervision.zone/
+
 ### NLP
 
 Quick BERT overview https://towardsdatascience.com/understanding-bert-is-it-a-game-changer-in-nlp-7cca943cf3ad
