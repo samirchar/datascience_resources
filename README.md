@@ -82,6 +82,11 @@ Columbia University Peter Belhumeur Advanced Topics in Deep Learning reading lis
 
 Dive into deep learning by Amazon and Google Scientists https://d2l.ai/index.html
 
+DeepETA: How Uber predicts arrival times using deep learning: https://eng.uber.com/deepeta-how-uber-predicts-arrival-times/
+## Transformers
+
+The annotated transformer: explains and implements transformer: http://nlp.seas.harvard.edu/2018/04/03/attention.html
+
 ### CNN
 https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/
 
