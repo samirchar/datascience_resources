@@ -89,6 +89,10 @@ DeepETA: How Uber predicts arrival times using deep learning: https://eng.uber.c
 
 The annotated transformer: explains and implements transformer: http://nlp.seas.harvard.edu/2018/04/03/attention.html
 
+### GANs
+
+StyleGAN2 ADA: StyleGAN2 ADA allows you to train a neural network to generate high-resolution images based on a training set of images. It works with small dataset thanks to ADAptive discriminator which allows for on the fly image augmentation.
+
 ### CNN
 https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/
 
