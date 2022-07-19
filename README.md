@@ -123,7 +123,11 @@ RoBERTa Paper: https://arxiv.org/pdf/1907.11692.pdf (2019, after BERT)
 
 DistillBert Paper: https://arxiv.org/pdf/1910.01108.pdf (2019, after RoBERTa)
 
-DeBERTa Paper: https://arxiv.org/pdf/2006.03654.pdf (2020)
+XLNET:Generalized Autoregressive Pretraining for Language Understanding https://arxiv.org/pdf/1906.08237.pdf  (Jan 2020)
+
+(T5 Paper) Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer: https://arxiv.org/pdf/1910.10683v3.pdf (Jul 2020)
+
+DeBERTa Paper: https://arxiv.org/pdf/2006.03654.pdf (2021)
 
 
 Pre-trained word embeddings miscellaneous https://ybbaigo.gitbooks.io/26/pretrained-word-embeddings.html
