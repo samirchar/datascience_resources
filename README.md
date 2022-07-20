@@ -129,6 +129,7 @@ XLNET:Generalized Autoregressive Pretraining for Language Understanding https://
 
 DeBERTa Paper: https://arxiv.org/pdf/2006.03654.pdf (2021)
 
+Overview of main language models and use cases: https://tungmphung.com/a-review-of-pre-trained-language-models-from-bert-roberta-to-electra-deberta-bigbird-and-more/
 
 Pre-trained word embeddings miscellaneous https://ybbaigo.gitbooks.io/26/pretrained-word-embeddings.html
 
