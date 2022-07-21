@@ -124,6 +124,7 @@ RoBERTa Paper: https://arxiv.org/pdf/1907.11692.pdf (2019, after BERT)
 DistillBert Paper: https://arxiv.org/pdf/1910.01108.pdf (2019, after RoBERTa)
 
 XLNET:Generalized Autoregressive Pretraining for Language Understanding https://arxiv.org/pdf/1906.08237.pdf  (Jan 2020)
+XLNET hardest details easily explained https://medium.com/swlh/understanding-xlnet-33c34167b0e7
 
 (T5 Paper) Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer: https://arxiv.org/pdf/1910.10683v3.pdf (Jul 2020)
 
